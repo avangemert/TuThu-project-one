@@ -1,0 +1,110 @@
+﻿Date,Location,Deaths,Injuries,Bullet Hits,School Type,Number of Attackers,Shooter Gender,Shooter Age,Suicide,Former Student
+5/16/1986,"Cokeville, Wyoming",2,74,76,E,2,B,45,Y,N
+4/16/2007,"Blacksburg, Virginia",33,23,56,U,1,M,23,Y,Y
+1/17/1989,"Stockton, California",6,32,38,E,1,M,24,Y,N
+4/20/1999,"Littleton, Colorado",15,21,36,H,2,M,18,Y,Y
+2/14/2018,"Parkland, Florida",17,17,34,H,1,M,19,N,Y
+12/14/2012,"Newtown, Connecticut",28,2,30,E,1,M,20,Y,N
+5/21/1998,"Springfield, Oregon",4,23,27,H,1,M,15,N,Y
+2/14/2008,"DeKalb, Illinois",6,21,27,U,1,M,27,Y,Y
+11/14/2017,"Rancho Tehama Reserve, California",6,18,24,E,1,M,43,N,N
+1/23/2018,"Marshall County, Kentucky",2,18,20,H,1,M,15,N,Y
+5/18/2018,"Santa Fe, Texas",10,10,20,H,1,M,17,N,
+10/1/2015,"Roseburg, Oregon",10,9,19,U,1,M,26,Y,Y
+3/21/2005,"Red Lake, Minnesota",10,7,17,H,1,M,16,Y,Y
+3/5/2001,"Santee, California",2,13,15,H,1,M,15,N,Y
+3/24/1998,"Craighead County, Arkansas",5,10,15,M,2,M,12,N,Y
+2/24/1984,"Los Angeles, California",2,12,14,E,1,M,28,Y,N
+5/1/1992,"Olivehurst, California",4,10,14,H,1,M,20,N,Y
+11/4/1992,"Detroit, Michigan",0,11,11,H,1,M,14,N,Y
+9/26/1988,"Greenwood, South Carolina",2,9,11,E,1,M,19,N,N
+10/1/1997,"Pearl, Mississippi",3,7,10,H,1,M,16,N,Y
+6/7/2013,"Santa Monica, California",6,4,10,U,1,M,23,N,N
+4/2/2012,"Oakland, California",7,3,10,U,1,M,43,N,N
+10/2/2006,"Nickel Mines, Pennsylvania",6,3,9,F,1,M,32,Y,N
+12/1/1997,"West Paducah, Kentucky",3,5,8,H,1,M,14,N,Y
+9/11/1992,"Amarillo, Texas",0,7,7,H,1,M,17,N,Y
+5/24/2015,"Flint, Michigan",0,7,7,E,2,M,0,N,
+11/1/1991,"Iowa City, Iowa",6,1,7,U,1,M,28,Y,Y
+10/18/1985,"Detroit, Michigan",0,6,6,H,1,M,16,N,Y
+5/20/1999,"Conyers, Georgia",0,6,6,H,1,M,15,N,Y
+12/6/1999,"Fort Gibson, Oklahoma",0,6,6,M,1,M,13,N,Y
+5/20/1988,"Winnetka, Illinois",1,5,6,E,1,F,30,Y,N
+3/31/2011,"Houston, Texas",1,5,6,H,2,M,18,N,Y
+1/16/2002,"Grundy, Virginia",3,3,6,U,1,M,42,N,Y
+2/12/2010,"Huntsville, Alabama",3,3,6,U,1,F,44,,Y
+2/27/2012,"Chardon, Ohio",3,3,6,H,1,M,17,N,Y
+10/24/2014,"Marysville, Washington",5,1,6,H,1,M,15,Y,Y
+3/22/2001,"El Cajon, California",0,5,5,H,1,M,18,N,Y
+9/17/2006,"Pittsburgh, Pennsylvania",0,5,5,U,,,,,
+1/9/2009,"Chicago, Illinois",0,5,5,H,1,M,18,N,N
+2/1/2018,"Los Angeles, California",0,5,5,M,1,F,12,N,Y
+9/17/1993,"Sheridan, Wyoming",1,4,5,M,1,M,29,N,
+11/7/1994,"Wickliffe, Ohio",1,4,5,M,1,M,37,N,Y
+10/10/2007,"Cleveland, Ohio",1,4,5,H,1,M,14,Y,Y
+8/24/2006,"Essex Junction, Vermont",2,3,5,E,1,M,26,N,N
+6/11/2002,"Conception, Missouri",3,2,5,U,1,M,71,Y,N
+5/7/2004,"Randallstown, Maryland",0,4,4,H,2,,,N,Y
+10/31/2012,"Los Angeles, California",0,4,4,U,1,M,20,N,N
+12/12/2014,"Portland, Oregon",0,4,4,H,2,M,20,N,
+2/9/2016,"Muskegon Heights, Michigan",0,4,4,H,,,,,
+2/29/2016,"Middletown, Ohio",0,4,4,H,1,M,14,N,Y
+10/18/2016,"San Francisco, California",0,4,4,H,2,,,,
+1/21/1985,"Goddard, Kansas",1,3,4,M,1,M,14,,
+12/4/1986,"Lewistown, Montana",1,3,4,H,1,M,14,N,Y
+3/1/1998,"Philadelphia, Pennsylvania",1,3,4,U,,,,,
+4/24/1998,"Edinboro, Pennsylvania",1,3,4,M,1,M,14,N,Y
+4/14/2003,"New Orleans, Louisiana",1,3,4,H,2,M,18,N,Y
+10/16/2008,"Detroit, Michigan",1,3,4,H,3,M,15,N,Y
+6/5/2014,"Seattle, Washington",1,3,4,U,1,M,26,N,
+11/20/2014,"Tallahassee, Florida",1,3,4,U,1,M,,N,Y
+10/9/2015,"Flagstaff, Arizona",1,3,4,U,1,,18,N,Y
+10/22/2015,"Nashville, Tennessee",1,3,4,U,,,,,
+6/8/2016,"Dorchester, Massachusetts",1,3,4,H,2,,,N,
+9/13/2017,"Rockford, Washington",1,3,4,H,1,M,15,N,Y
+5/18/2018,"Jonesboro, Georgia",1,3,4,H,,,,,
+2/19/1997,"Bethel, Alaska",2,2,4,H,1,M,16,N,Y
+1/5/2011,"Omaha, Nebraska",2,2,4,H,1,M,18,Y,Y
+10/21/2013,"Sparks, Nevada",2,2,4,M,1,M,12,Y,Y
+9/28/2016,"Townville, South Carolina",2,2,4,E,1,,,,Y
+2/2/1996,"Moses Lake, Washington",3,1,4,M,1,M,14,N,Y
+4/10/2017,"San Bernardino, California",3,1,4,E,1,M,53,Y,N
+10/28/2002,"Tucson, Arizona",4,0,4,U,1,M,40,Y,Y
+5/9/1986,"Fayetteville, North Carolina",0,3,3,H,1,,17,,Y
+9/11/1990,"San Antonio, Texas",0,3,3,H,3,M,18,N,Y
+10/19/1992,"The Bronx, New York",0,3,3,H,,,,,
+4/26/2009,"Hampton, Virginia",0,3,3,U,1,M,18,N,Y
+6/16/2009,"San Francisco, California",0,3,3,H,1,M,,,
+1/22/2013,"Houston, Texas",0,3,3,U,1,M,,N,
+4/16/2013,"Grambling, Louisiana",0,3,3,U,,,,,
+11/13/2013,"Pittsburgh, Pennsylvania",0,3,3,H,,,,,
+1/14/2014,"Roswell, New Mexico",0,3,3,M,1,M,12,N,Y
+1/15/2015,"Milwaukee, Wisconsin",0,3,3,H,1,M,36,N,N
+2/23/2015,"Daytona Beach, Florida",0,3,3,U,,,,,
+3/19/1982,"Las Vegas, Nevada",1,2,3,H,1,M,17,N,Y
+12/10/1985,"Portland, Connecticut",1,2,3,M,1,M,13,N,Y
+4/16/1987,"Detroit, Michigan",1,2,3,H,1,,13,N,Y
+2/11/1988,"Largo, Florida",1,2,3,H,2,M,15,N,Y
+9/17/1996,"State College, Pennsylvania",1,2,3,U,1,F,19,N,
+9/25/1996,"Decatur, Georgia",1,2,3,H,1,M,15,N,Y
+5/9/2003,"Cleveland, Ohio",1,2,3,U,1,M,62,N,Y
+11/8/2005,"Jacksboro, Tennessee",1,2,3,H,1,M,15,N,Y
+8/30/2006,"Hillsborough, North Carolina",1,2,3,H,1,M,,,Y
+8/23/2013,"Sardis, Mississippi",1,2,3,H,1,M,15,N,Y
+9/3/2015,"Sacramento, California",1,2,3,U,1,M,,N,N
+4/23/2016,"Antigo, Wisconsin",1,2,3,H,1,M,18,N,Y
+9/9/2016,"Alpine, Texas",1,2,3,H,1,F,14,Y,Y
+3/7/2018,"Birmingham, Alabama",1,2,3,H,1,M,17,N,Y
+1/20/1983,"St. Louis County, Missouri",2,1,3,M,1,M,13,Y,Y
+10/12/1995,"Blackville, South Carolina",2,1,3,H,1,M,16,Y,Y
+11/15/1995,"Lynnville, Tennessee",2,1,3,H,1,M,17,,
+10/26/2008,"Conway, Arkansas",2,1,3,U,4,M,,,
+6/10/2014,"Troutdale, Oregon",2,1,3,H,1,M,15,Y,Y
+3/20/2018,"Great Mills, Maryland",2,1,3,H,1,M,17,Y,Y
+11/27/1985,"Spanaway, Washington",3,0,3,M,1,F,14,Y,Y
+4/23/1992,"Bloomington, Indiana",3,0,3,U,1,M,,Y,
+8/15/1996,"San Diego, California",3,0,3,U,1,M,36,N,Y
+9/2/2006,"Shepherdstown, West Virginia",3,0,3,U,1,M,49,Y,N
+2/8/2008,"Baton Rouge, Louisiana",3,0,3,U,1,F,23,Y,Y
+1/15/2013,"Hazard, Kentucky",3,0,3,U,1,M,21,N,
+12/7/2017,"Aztec, New Mexico",3,0,3,H,1,M,21,Y,Y
