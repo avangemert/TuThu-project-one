@@ -1,0 +1,12 @@
+school type:
+E = elementary
+M = middle
+H = high
+U = university oor college
+F = K-12
+
+Gender:
+M = male
+F = female
+B = both male and female
+
